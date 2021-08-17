@@ -1,0 +1,8 @@
+{
+  "name": "mini-program-webpack-plugin",
+  "version": "1.0.0",
+  "description": "mini program webpack plugin",
+  "main": "index.js",
+  "author": "Rocky",
+  "license": "MIT"
+}
